@@ -21,7 +21,8 @@ the cluster marginals.
 
 [Optional] Problem 3: Find the joint probability with MCMC.
 
-![alt text](![alt text](http://url/to/img.png))
+![alt text](![alt text](https://imgur.com/a/nq4YE))
+
 
 ```csharp
 >  library(gRain) >  yn <- c("yes","no") >  a <- cptable(~asia, values=c(1,99), levels=yn)
