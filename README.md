@@ -1,5 +1,6 @@
-Problem Set 2: Exact Inference with Probabilistic Graphical Models
-Due Date: Sunday, March 25, 2018 @ 11:59 PM
+# Problem Set 2: Exact Inference with Probabilistic Graphical Models
+## CSE 455/555: Introduction to Pattern Recognition
+#### Due Date: Sunday, March 25, 2018 @ 11:59 PM
 
 In this problem set, we will make exact inferences about probabilistic graphical models using the 
 state-of-the-art graphical model packages in our most comfortable programming languages, and 
@@ -61,9 +62,6 @@ xray   yes   no
   yes 0.98 0.05
   no  0.02 0.95
 ```
-By submitting this paper, you agree: (1) that you are submitting your paper to be used and stored as 
-part of the SafeAssign™ services in accordance with the Blackboard Privacy Policy; (2) that your 
-institution may use your paper in accordance with your institution's policies; and (3) that your 
-use of SafeAssign will be without recourse against Blackboard Inc. and its affiliates.
+### License
 
-
+Probalistic Graphical Modela is [MIT licensed](./LICENSE).
